@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tmakin/switchroot-imager",
+	"CMAKE_SOURCE_DIR" : "/home/tmakin/switchroot-imager",
+	"INCLUDE_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_sk.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_de.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_it.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_zh_cn.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_en.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_nl.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_tr.qm",
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_fr.qm"
+	],
+	"LOCK_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/AutoRcc_translations_GJXGGJFIRE_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "translations" ],
+	"OUTPUT_CHECKSUM" : "GJXGGJFIRE",
+	"OUTPUT_NAME" : "qrc_translations.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/AutoRcc_translations_GJXGGJFIRE_Used.txt",
+	"SOURCE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/translations.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,13 @@
+Package: rpi-imager-dbgsym
+Package-Type: ddeb
+Source: rpi-imager
+Version: 1.5
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Floris Bos <bos@je-eigen-domein.nl>
+Installed-Size: 2439
+Depends: rpi-imager (= 1.5)
+Section: debug
+Priority: optional
+Description: debug symbols for rpi-imager
+Build-Ids: ee98aa2610cd0e44c9ef20f782718cfbde0cacba

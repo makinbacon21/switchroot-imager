@@ -1,0 +1,190 @@
+{
+	"BUILD_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tmakin/switchroot-imager",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/tmakin/switchroot-imager",
+	"HEADERS" : 
+	[
+		[
+			"/home/tmakin/switchroot-imager/acceleratedcryptographichash.h",
+			"Mu",
+			"EWIEGA46WW/moc_acceleratedcryptographichash.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/config.h",
+			"Mu",
+			"EWIEGA46WW/moc_config.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/dependencies/mountutils/src/mountutils.hpp",
+			"Mu",
+			"S5WMHZHR6A/moc_mountutils.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/downloadextractthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_downloadextractthread.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/downloadstatstelemetry.h",
+			"Mu",
+			"EWIEGA46WW/moc_downloadstatstelemetry.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/downloadthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_downloadthread.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/driveformatthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_driveformatthread.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/drivelistitem.h",
+			"Mu",
+			"EWIEGA46WW/moc_drivelistitem.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/drivelistmodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_drivelistmodel.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/drivelistmodelpollthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_drivelistmodelpollthread.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/imagewriter.h",
+			"Mu",
+			"EWIEGA46WW/moc_imagewriter.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/linux/udisks2api.h",
+			"Mu",
+			"YCY4FPCVH5/moc_udisks2api.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/localfileextractthread.h",
+			"Mu",
+			"EWIEGA46WW/moc_localfileextractthread.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/nan.h",
+			"Mu",
+			"EWIEGA46WW/moc_nan.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/networkaccessmanagerfactory.h",
+			"Mu",
+			"EWIEGA46WW/moc_networkaccessmanagerfactory.cpp"
+		],
+		[
+			"/home/tmakin/switchroot-imager/powersaveblocker.h",
+			"Mu",
+			"EWIEGA46WW/moc_powersaveblocker.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"IMAGER_VERSION_CSV=1,5,0,0",
+		"IMAGER_VERSION_STR=\"1.5\"",
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu",
+		"/home/tmakin/switchroot-imager",
+		"/home/tmakin/switchroot-imager",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSvg",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/rpi-imager_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/tmakin/switchroot-imager/obj-x86_64-linux-gnu/CMakeFiles/rpi-imager_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/tmakin/switchroot-imager/acceleratedcryptographichash.cpp",
+			"Mu"
+		],
+		[
+			"/home/tmakin/switchroot-imager/dependencies/mountutils/src/linux/functions.cpp",
+			"Mu"
+		],
+		[ "/home/tmakin/switchroot-imager/downloadextractthread.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/downloadstatstelemetry.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/downloadthread.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/driveformatthread.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/drivelistitem.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/drivelistmodel.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/drivelistmodelpollthread.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/imagewriter.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/linux/linuxdrivelist.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/linux/udisks2api.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/localfileextractthread.cpp", "Mu" ],
+		[ "/home/tmakin/switchroot-imager/main.cpp", "Mu" ],
+		[
+			"/home/tmakin/switchroot-imager/networkaccessmanagerfactory.cpp",
+			"Mu"
+		],
+		[ "/home/tmakin/switchroot-imager/powersaveblocker.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
